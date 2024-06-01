@@ -6,4 +6,4 @@ This is a website to create a personalized certificate of achievement with the "
 google Chrome and Visual studio Code(html, css and javascript)
 
 ##  loom video 
-
+https://www.loom.com/share/22655a9610634fa6a759e5e89ea70f13?sid=2f87780c-0eb7-48ee-a47f-3229e766eafc
